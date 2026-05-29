@@ -1,0 +1,6 @@
+{
+  "name": "EduSpark Hub",
+  "description": "Bright Minds, Better Grades - Professional online education support and school task resources for students and parents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
